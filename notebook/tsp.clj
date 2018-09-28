@@ -247,7 +247,7 @@
 ;;; 1. Calculate their tour length
 ;;; 1. Select the tour with the smallest tour length
 ;;; 
-;;; Here we define the skeleton of the algorithm first, then we proceeed to implement them one by one.
+;;; Here we define the skeleton of the algorithm first, then we proceed to implement them one by one.
 ;; **
 
 ;; @@
@@ -488,7 +488,7 @@
 ;; <=
 
 ;; **
-;;; Uncrossing can be achived by reversing a segment:
+;;; Uncrossing can be achieved by reversing a segment:
 ;; **
 
 ;; @@
