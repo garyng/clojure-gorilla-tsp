@@ -1,6 +1,6 @@
 # clojure-gorilla-tsp
 
-Gorilla notebook for solving Travelling Salesman Problem in Clojure. Made for my TAI2151 Artificial Intelligence (Trimester 1 2018/2019).
+Gorilla notebook for solving Travelling Salesman Problem in Clojure. Made for my TAI2151 Artificial Intelligence Fundamentals (Trimester 1 2018/2019).
 
 The notebook can be viewed online at http://viewer.gorilla-repl.org/view.html?source=github&user=garyng&repo=clojure-gorilla-tsp&path=notebook/tsp.clj
 
